@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+anikettheprogrammer.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	560fd3a6-39cb6-fae2e-ec701
+weebly.com	TRUE	/	FALSE	1999999999	sto-id-nginx_assets	0
+weebly.com	TRUE	/	FALSE	1999999999	sto-id-editor	EBHLHLAK
+anikettheprogrammer.weebly.com	TRUE	/	FALSE	1999999999	language	en
+
